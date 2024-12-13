@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dikra Bajgai"
 title_separator          : "-"
 name                     : &name "Dikra Prasad Bajgai"
-description              : &description "personal description"
+description              : &description "Research Associate"
 url                      : https://dikrabajgai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dikrabajgai/dikrabajgai.github.io"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dikra Prasad Bajgai"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kathmandu Nepal"
-  employer         : "ICIMOD"
+  employer         : " International Centre for Integrated Mountain Development (ICIMOD)"
   uri              : # URL
   email            : "dikrapb@gmail.com" 
 
